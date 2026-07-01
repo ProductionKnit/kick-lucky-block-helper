@@ -130,4 +130,4 @@ The executable operates by injecting a lightweight DLL payload into the Roblox c
 
 - [Report a Bug](../../issues)
 - [Request a Feature](../../issues)
-- [Discord Server
+- [Discord Server⁠
